@@ -9,8 +9,9 @@
 **Server:** PHP, MySQL
 
 ## Screenshots
-
+here, this is how the frontpage will look like:-
 ![App Screenshot](https://github.com/Subhadro/Ask-Doubt/blob/main/frontpage.jpg)
+here, this is how the qustion-answer page will look like:-
 ![App Screenshot](https://github.com/Subhadro/Ask-Doubt/blob/main/q-a-page.jpg)
 
 ## Features
