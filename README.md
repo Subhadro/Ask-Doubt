@@ -10,7 +10,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Subhadro/Currency_converter/blob/21045855f437a1a824c3c1754a272631401642c2/currency.jpeg)
+![App Screenshot](https://github.com/Subhadro/Ask-Doubt/blob/main/frontpage.jpg)
 ![App Screenshot](https://mega.nz/file/0yZ0XT5J#JN6zZcg6sTj6UvtJ394qmn8rNZ-7eMPCrJ47Lx-J6Xo)
 
 ## Features
